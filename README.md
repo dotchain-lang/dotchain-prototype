@@ -16,12 +16,6 @@ let add = (left, right) => {
   // 返回值
   return left + right
 }
-
-// 函數呼叫
-add(1,2)
-add(3, add(1,2))
-// TODO: 鏈式函數呼叫 . 呼叫函數，將以 . 前的值作為第一個參數
-// hello.add(2) 等價於 add(hello, 2)
 ```
 ## Keywords
 ```
