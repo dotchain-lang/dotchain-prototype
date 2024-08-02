@@ -23,5 +23,5 @@ let while if else true false
 ```
 
 ```bash
-python -m unittest
+python main.py
 ```
